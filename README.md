@@ -1,3 +1,18 @@
+Live link: 
+frontend - https://next-blog-app-uqgl.onrender.com/
+admin-panel - https://next-blog-app-admin.onrender.com/
+
+User Interaction and Experience: Allows users to view blogs, read detailed posts, and register their email for
+subscriptions, providing a seamless and engaging user experience with easy navigation and intuitive design.
+• Admin Features: Admin panel enables administrators to manage blogs by adding new posts with images, titles,
+descriptions, and categories, as well as viewing and removing email subscriptions.
+• Project Focus: Leveraged Next.js and React.js for robust front-end development, Tailwind CSS for sleek and responsive
+styling, and MongoDB for efficient data management.
+• Tech Stack: Utilized Next.js, React.js, Tailwind CSS, and MongoDB to create a scalable, efficient, and visually
+appealing blog application.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
